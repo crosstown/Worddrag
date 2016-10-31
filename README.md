@@ -1,6 +1,6 @@
 # Worddrag
 
-The program creates a maze and then solves it by the utilization of the popular backtraking algorithm
+The program creates a panel with differents word(labels). The user can drag the words around the panel, delete and add new words
 
 ![Word dragging](word.png)
 
@@ -14,4 +14,4 @@ This repository has no branches. You can use the only branch with no restriction
 Clone this repository into your local machine using the terminal (mac) or Gitbash (PC)
 > git clone https://github.com/crosstown/Worddrag.git
 
-CD to the folder cd maze
+CD to the folder cd worddrag
